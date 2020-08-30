@@ -453,6 +453,7 @@ a:hover {
 }
 
 h6 {
+  color: #6c757d;
   margin-bottom: 0;
 }
 
