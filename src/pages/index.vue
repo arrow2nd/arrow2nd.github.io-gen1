@@ -314,7 +314,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="もっと！ねこようなもの。"
-                    sub-title="ちょっと口が悪いねこのスタンプ"
+                    sub-title="ちょっと太ったねこのスタンプ"
                     img-src="/static/works/sticker/neko_6.png"
                     img-alt="もっと！ねこようなもの。"
                     img-top
