@@ -351,7 +351,10 @@
           />
           <b-card class="mt-4">
             <b-card-body class="p-0">
-              <h6>あろーといいます。ねこと餃子とアイマスが好きです。</h6>
+              <h6>
+                あろーといいます。
+                <br />ねこと餃子とアイマスが好きです。
+              </h6>
             </b-card-body>
           </b-card>
           <b-card class="mt-3" title="好きなこと">
