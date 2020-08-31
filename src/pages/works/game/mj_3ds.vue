@@ -2,9 +2,9 @@
   <div>
     <worksDetail link="http://wiki.hosiken.jp/petc3gou/?Toukou%2F4%BF%CD%C2%C7%A4%C1%CB%E3%BF%FD%A5%B2%A1%BC%A5%E0%A1%D8%A4%DE%A1%BC%A4%B8%A4%E3%A4%F3%A4%CE%A4%E8%A4%A6%A4%CA%A4%E2%A4%CE%A1%A3%A1%D9">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/game/mj_3ds_1.png" />
-        <b-carousel-slide img-src="/static/works/game/mj_3ds_2.png" />
-        <b-carousel-slide img-src="/static/works/game/mj_3ds_3.png" />
+        <b-carousel-slide img-src="/static/works/game/mj_3ds_1.webp" />
+        <b-carousel-slide img-src="/static/works/game/mj_3ds_2.webp" />
+        <b-carousel-slide img-src="/static/works/game/mj_3ds_3.webp" />
       </template>
       <template v-slot:name>まーじゃんのようなもの。</template>
       <template v-slot:badge>

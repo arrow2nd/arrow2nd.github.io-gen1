@@ -15,7 +15,7 @@
                   <b-card
                     title="まーじゃんのようなもの。"
                     sub-title="イカサマなしのぽんこつ麻雀ゲーム"
-                    img-src="/static/works/game/mj_3ds_1.png"
+                    img-src="/static/works/game/mj_3ds_1.webp"
                     img-alt="まーじゃんのようなもの。"
                     img-top
                   >
@@ -37,7 +37,7 @@
                   <b-card
                     title="まーじゃんのようなもの。for Switch"
                     sub-title="のんびり遊べる4人打ち麻雀ゲーム"
-                    img-src="/static/works/game/mj_sw_1.jpg"
+                    img-src="/static/works/game/mj_sw_1.webp"
                     img-alt="まーじゃんのようなもの。for Switch"
                     img-top
                   >
@@ -59,7 +59,7 @@
                   <b-card
                     title="にゃんこだいせんせぇ"
                     sub-title="問題を”シュッ”と採点する計算ゲーム"
-                    img-src="/static/works/game/nyanko_1.jpg"
+                    img-src="/static/works/game/nyanko_1.webp"
                     img-alt="にゃんこだいせんせぇ"
                     img-top
                   >
@@ -86,7 +86,7 @@
                   <b-card
                     title="匿名Player"
                     sub-title="Webラジオ「匿名ラジオ」を聴くだけのアプリ"
-                    img-src="/static/works/other/tokumei_1.png"
+                    img-src="/static/works/other/tokumei_1.webp"
                     img-alt="匿名Player"
                     img-top
                   >
@@ -108,7 +108,7 @@
                   <b-card
                     title="プロデュースノート！"
                     sub-title="アイドルのプロフィールを見るLINEBot"
-                    img-src="/static/works/other/produce_1.png"
+                    img-src="/static/works/other/produce_1.webp"
                     img-alt="プロデュースノート"
                     img-top
                   >
@@ -130,7 +130,7 @@
                   <b-card
                     title="突然の死ジェネレーター"
                     sub-title="とげとげを作るLINEBot"
-                    img-src="/static/works/other/totsuzen_1.png"
+                    img-src="/static/works/other/totsuzen_1.webp"
                     img-alt="突然の死ジェネレーター"
                     img-top
                   >
@@ -152,7 +152,7 @@
                   <b-card
                     title="tw-nyaan"
                     sub-title="コンソールで動くTwitterクライアント"
-                    img-src="/static/works/other/nyaan_1.png"
+                    img-src="/static/works/other/nyaan_1.webp"
                     img-alt="tw-nyaan"
                     img-top
                   >
@@ -174,7 +174,7 @@
                   <b-card
                     title="sb4-extension"
                     sub-title="SmileBASICのVSCode拡張"
-                    img-src="/static/works/other/sb4_1.png"
+                    img-src="/static/works/other/sb4_1.webp"
                     img-alt="sb4-extension"
                     img-top
                   >
@@ -201,7 +201,7 @@
                   <b-card
                     title="ねこのようなもの。"
                     sub-title="使えそうで使い所に困るスタンプ"
-                    img-src="/static/works/sticker/neko_1.png"
+                    img-src="/static/works/sticker/neko_1.webp"
                     img-alt="ねこのようなもの。"
                     img-top
                   >
@@ -220,7 +220,7 @@
                   <b-card
                     title="ねこのようなもの。2"
                     sub-title="5匹のねこの微妙に使えそうなスタンプ"
-                    img-src="/static/works/sticker/neko_2.png"
+                    img-src="/static/works/sticker/neko_2.webp"
                     img-alt="ねこのようなもの。2"
                     img-top
                   >
@@ -239,7 +239,7 @@
                   <b-card
                     title="進捗とたたかうねこ。"
                     sub-title="「進捗」に特化したねこのスタンプ"
-                    img-src="/static/works/sticker/neko_3.png"
+                    img-src="/static/works/sticker/neko_3.webp"
                     img-alt="進捗とたたかうねこ。"
                     img-top
                   >
@@ -258,7 +258,7 @@
                   <b-card
                     title="うごく！ねこのようなもの。"
                     sub-title="わちゃわちゃ動くクレヨン風のスタンプ"
-                    img-src="/static/works/sticker/neko_4.png"
+                    img-src="/static/works/sticker/neko_4.webp"
                     img-alt="うごく！ねこのようなもの。"
                     img-top
                   >
@@ -277,7 +277,7 @@
                   <b-card
                     title="いぬだと思います。"
                     sub-title="いぬっぽい何かのスタンプ"
-                    img-src="/static/works/sticker/dog_1.png"
+                    img-src="/static/works/sticker/dog_1.webp"
                     img-alt="いぬだと思います。"
                     img-top
                   >
@@ -296,7 +296,7 @@
                   <b-card
                     title="だいたいねこようなもの。"
                     sub-title="ちょっと口が悪いねこのスタンプ"
-                    img-src="/static/works/sticker/neko_5.png"
+                    img-src="/static/works/sticker/neko_5.webp"
                     img-alt="だいたいねこようなもの。"
                     img-top
                   >
@@ -315,7 +315,7 @@
                   <b-card
                     title="もっと！ねこようなもの。"
                     sub-title="ちょっと太ったねこのスタンプ"
-                    img-src="/static/works/sticker/neko_6.png"
+                    img-src="/static/works/sticker/neko_6.webp"
                     img-alt="もっと！ねこようなもの。"
                     img-top
                   >
@@ -344,7 +344,7 @@
           <b-img
             center
             thumbnail
-            src="/static/arrow2nd.png"
+            src="/static/arrow2nd.webp"
             rounded="circle"
             width="150px"
             alt="あろー。"

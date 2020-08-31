@@ -2,8 +2,8 @@
   <div>
     <worksDetail link="https://marketplace.visualstudio.com/items?itemName=arrow2nd.sb4-extension">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/other/sb4_1.png" />
-        <b-carousel-slide img-src="/static/works/other/sb4_2.png" />
+        <b-carousel-slide img-src="/static/works/other/sb4_1.webp" />
+        <b-carousel-slide img-src="/static/works/other/sb4_2.webp" />
       </template>
       <template v-slot:name>sb4-extension</template>
       <template v-slot:badge>

@@ -2,10 +2,10 @@
   <div>
     <worksDetail link="http://wiki.hosiken.jp/petc4/?Toukou%2F%A4%DE%A1%BC%A4%B8%A4%E3%A4%F3%A4%CE%A4%E8%A4%A6%A4%CA%A4%E2%A4%CE%A1%A3for%20Switch">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/game/mj_sw_1.jpg" />
-        <b-carousel-slide img-src="/static/works/game/mj_sw_2.jpg" />
-        <b-carousel-slide img-src="/static/works/game/mj_sw_3.jpg" />
-        <b-carousel-slide img-src="/static/works/game/mj_sw_4.jpg" />
+        <b-carousel-slide img-src="/static/works/game/mj_sw_1.webp" />
+        <b-carousel-slide img-src="/static/works/game/mj_sw_2.webp" />
+        <b-carousel-slide img-src="/static/works/game/mj_sw_3.webp" />
+        <b-carousel-slide img-src="/static/works/game/mj_sw_4.webp" />
       </template>
       <template v-slot:name>まーじゃんのようなもの。for Switch</template>
       <template v-slot:badge>

@@ -2,7 +2,7 @@
   <div>
     <worksDetail link="https://github.com/arrow2nd/tw-nyaan">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/other/nyaan_1.png" />
+        <b-carousel-slide img-src="/static/works/other/nyaan_1.webp" />
       </template>
       <template v-slot:name>tw-nyaan</template>
       <template v-slot:badge>

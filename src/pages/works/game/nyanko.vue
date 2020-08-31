@@ -2,9 +2,9 @@
   <div>
     <worksDetail link="https://twitter.com/arrow_2nd/status/1214409406026153984">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/game/nyanko_1.jpg" />
-        <b-carousel-slide img-src="/static/works/game/nyanko_2.jpg" />
-        <b-carousel-slide img-src="/static/works/game/nyanko_3.jpg" />
+        <b-carousel-slide img-src="/static/works/game/nyanko_1.webp" />
+        <b-carousel-slide img-src="/static/works/game/nyanko_2.webp" />
+        <b-carousel-slide img-src="/static/works/game/nyanko_3.webp" />
       </template>
       <template v-slot:name>にゃんこだいせんせぇ</template>
       <template v-slot:badge>

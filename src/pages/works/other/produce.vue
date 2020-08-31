@@ -2,7 +2,7 @@
   <div>
     <worksDetail link="https://line.me/R/ti/p/@319rwvnv">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/other/produce_1.png" />
+        <b-carousel-slide img-src="/static/works/other/produce_1.webp" />
       </template>
       <template v-slot:name>プロデュースノート！</template>
       <template v-slot:badge>

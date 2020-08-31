@@ -2,8 +2,8 @@
   <div>
     <worksDetail link="https://github.com/arrow2nd/tokumeiPlayer/releases">
       <template v-slot:carouselContent>
-        <b-carousel-slide img-src="/static/works/other/tokumei_1.png" />
-        <b-carousel-slide img-src="/static/works/other/tokumei_2.png" />
+        <b-carousel-slide img-src="/static/works/other/tokumei_1.webp" />
+        <b-carousel-slide img-src="/static/works/other/tokumei_2.webp" />
       </template>
       <template v-slot:name>匿名Player</template>
       <template v-slot:badge>
