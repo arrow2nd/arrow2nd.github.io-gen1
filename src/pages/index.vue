@@ -372,9 +372,9 @@
               <h6>いぬ, ねこ, サモエド, さめ</h6>
             </b-card-body>
           </b-card>
-          <b-card class="mt-3" title="ちょっとわかる">
+          <b-card class="mt-3" title="ちょっとだけわかる言語">
             <b-card-body class="p-0">
-              <h6>C, JavaScript, SmileBASIC</h6>
+              <h6>C, JavaScript, node.js, HTML, CSS, SmileBASIC</h6>
             </b-card-body>
           </b-card>
         </b-container>
