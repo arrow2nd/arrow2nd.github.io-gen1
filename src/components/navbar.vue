@@ -5,7 +5,12 @@
         <img class="rounded-circle border" src="/static/arrow2nd.webp" width="32px" />
       </router-link>
       <div class="navbar-nav d-flex flex-row">
-        <a class="nav-item nav-link link" href="https://twitter.com/arrow_2nd" target="_blank">
+        <a
+          class="nav-item nav-link link"
+          href="https://twitter.com/arrow_2nd"
+          target="_blank"
+          onclick="gtag('event', 'click', {event_category: 'link_click', 'event_label': 'Twitter'});"
+        >
           <font-awesome-icon :icon="['fab', 'twitter']" />
         </a>
         <a
@@ -13,10 +18,16 @@
           rel="me"
           href="https://imastodon.net/@arrow2nd"
           target="_blank"
+          onclick="gtag('event', 'click', {event_category: 'link_click', 'event_label': 'Mastodon'});"
         >
           <font-awesome-icon :icon="['fab', 'mastodon']" />
         </a>
-        <a class="nav-item nav-link link" href="https://github.com/arrow2nd" target="_blank">
+        <a
+          class="nav-item nav-link link"
+          href="https://github.com/arrow2nd"
+          target="_blank"
+          onclick="gtag('event', 'click', {event_category: 'link_click', 'event_label': 'Github'});"
+        >
           <font-awesome-icon :icon="['fab', 'github-alt']" />
         </a>
       </div>
