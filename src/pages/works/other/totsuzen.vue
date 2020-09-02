@@ -12,7 +12,7 @@
         <h3>概要</h3>
         <p>あのとげとげのやつを作るLINEBotです。</p>
         <h3>使用した技術など</h3>
-        <p>node.js, vercel</p>
+        <p>node.js, express, vercel, LINE Messaging API</p>
       </template>
       <template v-slot:link-text>友だち登録</template>
     </worksDetail>
