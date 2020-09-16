@@ -11,6 +11,7 @@ import index from '@/pages/index'
 import mj3ds from '@/pages/works/game/mj_3ds'
 import mjSw from '@/pages/works/game/mj_sw'
 import nyanko from '@/pages/works/game/nyanko'
+import syntax from '@/pages/works/game/syntax'
 import tokumei from '@/pages/works/other/tokumei'
 import produce from '@/pages/works/other/produce'
 import totsuzen from '@/pages/works/other/totsuzen'
@@ -45,6 +46,11 @@ export default new Router({
       path: '/nyanko',
       name: 'nyanko',
       component: nyanko
+    },
+    {
+      path: '/syntax',
+      name: 'syntax',
+      component: syntax
     },
     {
       path: '/tokumei',

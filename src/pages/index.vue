@@ -77,6 +77,28 @@
                     </b-card-body>
                   </b-card>
                 </b-col>
+                <b-col class="my-3" md="6">
+                  <b-card
+                    title="#Syntax"
+                    sub-title="プチコンの命令を揃えるパズル"
+                    img-src="/static/works/game/syntax_1.webp"
+                    img-alt="Syntax"
+                    img-top
+                  >
+                    <b-card-body class="p-0 text-right">
+                      <router-link to="/syntax">
+                        <b-button variant="outline-primary">くわしく</b-button>
+                      </router-link>
+                      <b-button
+                        href="https://twitter.com/arrow_2nd/status/1297872774577262593"
+                        target="_blank"
+                        variant="outline-primary"
+                      >
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ツイート
+                      </b-button>
+                    </b-card-body>
+                  </b-card>
+                </b-col>
               </b-row>
             </b-tab>
             <!--Other-->
@@ -364,7 +386,7 @@
           </b-card>
           <b-card class="mt-3" title="好きなアーティスト">
             <b-card-body class="p-0">
-              <h6>フレデリック, 平井堅</h6>
+              <h6>フレデリック, 平井堅, 中村さんそ</h6>
             </b-card-body>
           </b-card>
           <b-card class="mt-3" title="好きないきもの">
@@ -372,7 +394,7 @@
               <h6>いぬ, ねこ, サモエド, さめ</h6>
             </b-card-body>
           </b-card>
-          <b-card class="mt-3" title="ちょっとだけわかる言語">
+          <b-card class="mt-3" title="ちょっとだけわかる">
             <b-card-body class="p-0">
               <h6>C, JavaScript, node.js, HTML, CSS, SmileBASIC</h6>
             </b-card-body>
