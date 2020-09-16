@@ -59,7 +59,7 @@ export default {
 
 p {
   color: #6c757d;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 }
 
 h3 {
