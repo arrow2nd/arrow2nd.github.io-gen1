@@ -17,7 +17,7 @@
         <h3>概要</h3>
         <p>
           プチコン4(Switch)で遊べる4人打ち麻雀ゲームです。
-          <br />だれでも遊べる麻雀をコンセプトに制作しました。
+          <br />だれでも遊べるやさしい麻雀をコンセプトに制作しました。
         </p>
       </template>
       <template v-slot:link-text>まとめWiki</template>
