@@ -11,8 +11,8 @@
       <template v-slot:body>
         <h3>概要</h3>
         <p>
-            コンソールで動くTwitterクライアントです。
-            <br />手軽に「にゃーん」できるのが特徴です。
+          コンソールで動くTwitterクライアントです。
+          <br />手軽に「にゃーん」できるのが特徴です。
         </p>
         <h3>使用した技術など</h3>
         <p>node.js, Twitter API</p>

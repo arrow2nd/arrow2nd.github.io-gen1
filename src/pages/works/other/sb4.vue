@@ -11,10 +11,7 @@
       </template>
       <template v-slot:body>
         <h3>概要</h3>
-        <p>
-          SmileBASIC4をVSCodeで書くためのちょっとした拡張機能です。
-          <br />シンタックスハイライト・ホバー表示・入力補完・スニペットを提供します。
-        </p>
+        <p>SmileBASIC4をVSCodeで書くためのちょっとした拡張機能です。</p>
         <h3>使用した技術など</h3>
         <p>JavaScript</p>
       </template>
