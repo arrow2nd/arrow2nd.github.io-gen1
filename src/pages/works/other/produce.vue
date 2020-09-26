@@ -12,10 +12,10 @@
         <h3>概要</h3>
         <p>
           アイドルマスターシリーズに登場するアイドルのプロフィールを検索できるLINEBotです。
-          <br />名前以外に、誕生日からの検索にも対応しています。
+          <br />名前の一部や、よみ、誕生日からの検索にも対応しています。
         </p>
         <h3>使用した技術など</h3>
-        <p>node.js, vercel, LINE Messaging API, im@sparql(SPARQL)</p>
+        <p>Node.js, Vercel, LINE Messaging API, im@sparql(SPARQL)</p>
       </template>
       <template v-slot:link-text>友だち登録</template>
     </worksDetail>

@@ -106,30 +106,8 @@
               <b-row>
                 <b-col class="my-3" md="6">
                   <b-card
-                    title="匿名Player"
-                    sub-title="Webラジオ「匿名ラジオ」を聴くだけのアプリ"
-                    img-src="/static/works/other/tokumei_1.webp"
-                    img-alt="匿名Player"
-                    img-top
-                  >
-                    <b-card-body class="p-0 text-right">
-                      <router-link to="/tokumei">
-                        <b-button variant="outline-primary">くわしく</b-button>
-                      </router-link>
-                      <b-button
-                        href="https://github.com/arrow2nd/tokumeiPlayer/releases"
-                        target="_blank"
-                        variant="outline-primary"
-                      >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
-                      </b-button>
-                    </b-card-body>
-                  </b-card>
-                </b-col>
-                <b-col class="my-3" md="6">
-                  <b-card
                     title="プロデュースノート！"
-                    sub-title="アイドルのプロフィールを見るLINEBot"
+                    sub-title="アイドルのプロフィールをチェックできるLINEBot"
                     img-src="/static/works/other/produce_1.webp"
                     img-alt="プロデュースノート"
                     img-top
@@ -172,8 +150,30 @@
                 </b-col>
                 <b-col class="my-3" md="6">
                   <b-card
+                    title="匿名Player"
+                    sub-title="Webラジオ「匿名ラジオ」を聴くやつ"
+                    img-src="/static/works/other/tokumei_1.webp"
+                    img-alt="匿名Player"
+                    img-top
+                  >
+                    <b-card-body class="p-0 text-right">
+                      <router-link to="/tokumei">
+                        <b-button variant="outline-primary">くわしく</b-button>
+                      </router-link>
+                      <b-button
+                        href="https://github.com/arrow2nd/tokumeiPlayer/releases"
+                        target="_blank"
+                        variant="outline-primary"
+                      >
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
+                      </b-button>
+                    </b-card-body>
+                  </b-card>
+                </b-col>
+                <b-col class="my-3" md="6">
+                  <b-card
                     title="tw-nyaan"
-                    sub-title="コンソールで動くTwitterクライアント"
+                    sub-title="コンソールでにゃーんできるTwitterクライアント"
                     img-src="/static/works/other/nyaan_1.webp"
                     img-alt="tw-nyaan"
                     img-top
@@ -396,7 +396,7 @@
           </b-card>
           <b-card class="mt-3" title="ちょっとだけわかる">
             <b-card-body class="p-0">
-              <h6>C, JavaScript, node.js, HTML, CSS, SmileBASIC</h6>
+              <h6>C, JavaScript, Node.js, HTML, CSS, SmileBASIC</h6>
             </b-card-body>
           </b-card>
         </b-container>

@@ -15,7 +15,7 @@
           <br />手軽に「にゃーん」できるのが特徴です。
         </p>
         <h3>使用した技術など</h3>
-        <p>node.js, Twitter API</p>
+        <p>Node.js, Twitter API</p>
       </template>
       <template v-slot:link-text>Github</template>
     </worksDetail>
