@@ -15,7 +15,7 @@
           <br />名前の一部や、よみ、誕生日からの検索にも対応しています。
         </p>
         <h3>使用した技術など</h3>
-        <p>Node.js, Vercel, LINE Messaging API, im@sparql(SPARQL)</p>
+        <p>Node.js, LINE Messaging API, im@sparql(SPARQL), Vercel, CircleCI</p>
       </template>
       <template v-slot:link-text>友だち登録</template>
     </worksDetail>
