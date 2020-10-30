@@ -17,7 +17,7 @@
         <h3>概要</h3>
         <p>
           プチコン3号(3DS)・BIG(WiiU)で遊べる4人打ち麻雀ゲームです。
-          <br />ゆるいまーじゃんを目指して制作しました。
+          <br />ゆるーいまーじゃんを目指して制作しました。
         </p>
       </template>
       <template v-slot:link-text>まとめWiki</template>

@@ -58,7 +58,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="にゃんこだいせんせぇ"
-                    sub-title="問題を”シュッ”と採点する計算ゲーム"
+                    sub-title="問題を『シュッ』と採点する計算ゲーム"
                     img-src="/static/works/game/nyanko_1.webp"
                     img-alt="にゃんこだいせんせぇ"
                     img-top
@@ -72,7 +72,7 @@
                         target="_blank"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ツイート
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -94,7 +94,7 @@
                         target="_blank"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ツイート
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -129,7 +129,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="突然の死ジェネレーター"
-                    sub-title="とげとげを作るLINEBot"
+                    sub-title="あのとげとげを作るLINEBot"
                     img-src="/static/works/other/totsuzen_1.webp"
                     img-alt="突然の死ジェネレーター"
                     img-top
@@ -151,7 +151,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="匿名Player"
-                    sub-title="Webラジオ「匿名ラジオ」を聴くやつ"
+                    sub-title="Webラジオ「匿名ラジオ」を再生するアプリ"
                     img-src="/static/works/other/tokumei_1.webp"
                     img-alt="匿名Player"
                     img-top
@@ -397,6 +397,11 @@
           <b-card class="mt-3" title="ちょっとだけわかる">
             <b-card-body class="p-0">
               <h6>C, JavaScript, Node.js, HTML, CSS, SmileBASIC</h6>
+            </b-card-body>
+          </b-card>
+          <b-card class="mt-3" title="勉強中…">
+            <b-card-body class="p-0">
+              <h6>C++, Go</h6>
             </b-card-body>
           </b-card>
         </b-container>
