@@ -14,7 +14,7 @@
         <h3>公開キー</h3>
         <p>4VKS8XDEF</p>
         <h3>概要</h3>
-        <p>パネルを入れ替えてプチコンの命令をつくるパズルです。</p>
+        <p>パネルを入れ替えてプチコンの命令をつくるパズル。</p>
       </template>
       <template v-slot:link-text>ツイート</template>
     </worksDetail>

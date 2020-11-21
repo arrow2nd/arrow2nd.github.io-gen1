@@ -15,7 +15,7 @@
         <h3>公開キー</h3>
         <p>4NKEKN4XS</p>
         <h3>概要</h3>
-        <p>次々に出てくる問題をすばやく『シュッ』と採点する計算ゲームです。</p>
+        <p>次々に出てくる問題をすばやく『シュッ』と採点する計算ゲーム。</p>
       </template>
       <template v-slot:link-text>ツイート</template>
     </worksDetail>

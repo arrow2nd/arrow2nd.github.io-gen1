@@ -15,7 +15,7 @@ import syntax from '@/pages/works/game/syntax'
 import tokumei from '@/pages/works/other/tokumei'
 import produce from '@/pages/works/other/produce'
 import totsuzen from '@/pages/works/other/totsuzen'
-import twNyaan from '@/pages/works/other/tw_nyaan'
+import twnyan from '@/pages/works/other/twnyan'
 import sb4 from '@/pages/works/other/sb4'
 
 // fontawesome
@@ -68,9 +68,9 @@ export default new Router({
       component: totsuzen
     },
     {
-      path: '/tw_nyaan',
-      name: 'tw_nyaan',
-      component: twNyaan
+      path: '/twnyan',
+      name: 'twnyan',
+      component: twnyan
     },
     {
       path: '/sb4',

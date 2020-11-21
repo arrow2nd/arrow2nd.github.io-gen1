@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-light">
       <router-link class="navbar-brand" to="/">
-        <img class="rounded-circle border" src="/static/arrow2nd.webp" width="32px" />
+        <img class="rounded-circle border" src="/static/arrow2nd.webp" width="32px" alt="icon" />
       </router-link>
       <div class="navbar-nav d-flex flex-row">
         <a

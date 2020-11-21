@@ -172,18 +172,18 @@
                 </b-col>
                 <b-col class="my-3" md="6">
                   <b-card
-                    title="tw-nyaan"
-                    sub-title="コンソールでにゃーんできるTwitterクライアント"
-                    img-src="/static/works/other/nyaan_1.webp"
-                    img-alt="tw-nyaan"
+                    title="twnyan"
+                    sub-title="コンソールから「にゃーん」できるTwitterクライアント"
+                    img-src="/static/works/other/twnyan_1.webp"
+                    img-alt="twnyan"
                     img-top
                   >
                     <b-card-body class="p-0 text-right">
-                      <router-link to="/tw_nyaan">
+                      <router-link to="/twnyan">
                         <b-button variant="outline-primary">くわしく</b-button>
                       </router-link>
                       <b-button
-                        href="https://github.com/arrow2nd/tw-nyaan"
+                        href="https://github.com/arrow2nd/twnyan"
                         target="_blank"
                         variant="outline-primary"
                       >
@@ -381,7 +381,7 @@
           </b-card>
           <b-card class="mt-3" title="好きなこと">
             <b-card-body class="p-0">
-              <h6>なにかつくること, Twitterをみること, 餃子を食べること</h6>
+              <h6>なにかつくること, Twitterみること, 餃子食べること</h6>
             </b-card-body>
           </b-card>
           <b-card class="mt-3" title="好きなアーティスト">
@@ -394,14 +394,9 @@
               <h6>いぬ, ねこ, サモエド, さめ</h6>
             </b-card-body>
           </b-card>
-          <b-card class="mt-3" title="ちょっとだけわかる">
+          <b-card class="mt-3" title="ほんのちょっとわかる">
             <b-card-body class="p-0">
-              <h6>C, JavaScript, Node.js, HTML, CSS, SmileBASIC</h6>
-            </b-card-body>
-          </b-card>
-          <b-card class="mt-3" title="勉強中…">
-            <b-card-body class="p-0">
-              <h6>C++, Go</h6>
+              <h6>C, Go, JavaScript, Node.js, HTML, CSS, SmileBASIC</h6>
             </b-card-body>
           </b-card>
         </b-container>
