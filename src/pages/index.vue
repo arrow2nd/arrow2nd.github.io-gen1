@@ -26,6 +26,7 @@
                       <b-button
                         href="http://wiki.hosiken.jp/petc3gou/?Toukou%2F4%BF%CD%C2%C7%A4%C1%CB%E3%BF%FD%A5%B2%A1%BC%A5%E0%A1%D8%A4%DE%A1%BC%A4%B8%A4%E3%A4%F3%A4%CE%A4%E8%A4%A6%A4%CA%A4%E2%A4%CE%A1%A3%A1%D9"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;まとめWiki
@@ -48,6 +49,7 @@
                       <b-button
                         href="http://wiki.hosiken.jp/petc4/?Toukou%2F%A4%DE%A1%BC%A4%B8%A4%E3%A4%F3%A4%CE%A4%E8%A4%A6%A4%CA%A4%E2%A4%CE%A1%A3for%20Switch"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;まとめWiki
@@ -70,6 +72,7 @@
                       <b-button
                         href="https://twitter.com/arrow_2nd/status/1214409406026153984"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
@@ -92,6 +95,7 @@
                       <b-button
                         href="https://twitter.com/arrow_2nd/status/1297872774577262593"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
@@ -119,6 +123,7 @@
                       <b-button
                         href="https://line.me/R/ti/p/@319rwvnv"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;友だち登録
@@ -141,6 +146,7 @@
                       <b-button
                         href="https://line.me/R/ti/p/@996klscq"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;友だち登録
@@ -163,6 +169,7 @@
                       <b-button
                         href="https://github.com/arrow2nd/tokumeiPlayer/releases"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
@@ -185,6 +192,7 @@
                       <b-button
                         href="https://github.com/arrow2nd/twnyan"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;Github
@@ -207,6 +215,7 @@
                       <b-button
                         href="https://marketplace.visualstudio.com/items?itemName=arrow2nd.sb4-extension"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-primary"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
@@ -231,6 +240,7 @@
                       <b-button
                         href="https://line.me/S/sticker/5233786"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -250,6 +260,7 @@
                       <b-button
                         href="https://line.me/S/sticker/6419151"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -269,6 +280,7 @@
                       <b-button
                         href="https://line.me/S/sticker/7224768"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -288,6 +300,7 @@
                       <b-button
                         href="https://line.me/S/sticker/7982358"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -307,6 +320,7 @@
                       <b-button
                         href="https://line.me/S/sticker/8527524"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -326,6 +340,7 @@
                       <b-button
                         href="https://line.me/S/sticker/10319642"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE
@@ -345,6 +360,7 @@
                       <b-button
                         href="https://line.me/S/sticker/12664864"
                         target="_blank"
+                        rel="noopener"
                         variant="outline-success"
                       >
                         <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;LINE STORE

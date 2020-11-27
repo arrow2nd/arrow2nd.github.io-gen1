@@ -14,7 +14,7 @@
       </div>
       <slot name="body" />
     </b-container>
-    <b-button class="button-link" v-bind:href="link" target="_blank" variant="primary" pill>
+    <b-button class="button-link" v-bind:href="link" target="_blank" rel="noopener" variant="primary" pill>
       <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;
       <slot name="link-text" />
     </b-button>
