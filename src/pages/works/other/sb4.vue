@@ -11,7 +11,7 @@
       </template>
       <template v-slot:body>
         <h3>概要</h3>
-        <p>SmileBASIC4をVSCodeで書くためのちょっとした拡張機能。</p>
+        <p>SmileBASIC4をVSCodeで書くためのちょっとした拡張機能</p>
         <h3>使用技術</h3>
         <p>JavaScript</p>
       </template>

@@ -10,7 +10,7 @@
       </template>
       <template v-slot:body>
         <h3>概要</h3>
-        <p>あのとげとげのやつを作るLINEBot。</p>
+        <p>あのとげとげのやつを作るLINEBot</p>
         <h3>使用技術</h3>
         <p>Node.js, Vercel, LINE Messaging API</p>
       </template>

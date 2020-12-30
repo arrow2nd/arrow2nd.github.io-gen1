@@ -16,8 +16,8 @@
         <p>4BL47E4V</p>
         <h3>概要</h3>
         <p>
-          プチコン3号(3DS)・BIG(WiiU)で遊べる4人打ち麻雀ゲーム。
-          <br />ゆるーいまーじゃんを目指して制作しました。
+          プチコン3号(3DS)・BIG(WiiU)で遊べる4人打ち麻雀ゲーム<br />
+          ゆるく遊べる麻雀を目指して制作しました
         </p>
       </template>
       <template v-slot:link-text>まとめWiki</template>

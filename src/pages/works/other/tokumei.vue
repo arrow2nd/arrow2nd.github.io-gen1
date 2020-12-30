@@ -11,7 +11,7 @@
       </template>
       <template v-slot:body>
         <h3>概要</h3>
-        <p>Webラジオ「匿名ラジオ」を再生するアプリケーション。</p>
+        <p>Webラジオ「匿名ラジオ」を再生するアプリケーション</p>
         <h3>使用技術</h3>
         <p>electron, HTML, CSS, Node.js, jQuery</p>
       </template>

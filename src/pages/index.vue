@@ -111,7 +111,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="プロデュースノート！"
-                    sub-title="アイドルのプロフィールをチェックできるLINEBot"
+                    sub-title="アイドルのプロフィールを調べるLINEBot"
                     img-src="/static/works/other/produce_1.webp"
                     img-alt="プロデュースノート"
                     img-top
@@ -180,7 +180,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="twnyan"
-                    sub-title="コンソールから「にゃーん」できるTwitterクライアント"
+                    sub-title="コンソールでうごくTwitterクライアント"
                     img-src="/static/works/other/twnyan_1.webp"
                     img-alt="twnyan"
                     img-top
@@ -390,8 +390,8 @@
           <b-card class="mt-4">
             <b-card-body class="p-0">
               <h6>
-                あろーといいます。
-                <br />ねこと餃子とアイマスが好きです。
+                あろーといいます<br />
+                ねこと餃子とアイマスが好きです
               </h6>
             </b-card-body>
           </b-card>
@@ -410,9 +410,14 @@
               <h6>いぬ, ねこ, サモエド, さめ</h6>
             </b-card-body>
           </b-card>
-          <b-card class="mt-3" title="ほんのちょっとわかる">
+          <b-card class="mt-3" title="ちょっとわかる">
             <b-card-body class="p-0">
-              <h6>C, Go, JavaScript, Node.js, HTML, CSS, SmileBASIC</h6>
+              <h6>C, Go, JavaScript, VisualBasic, SmileBASIC</h6>
+            </b-card-body>
+          </b-card>
+          <b-card class="mt-3" title="さわったことある">
+            <b-card-body class="p-0">
+              <h6>Python, C++, HTML, CSS</h6>
             </b-card-body>
           </b-card>
         </b-container>

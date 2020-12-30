@@ -16,8 +16,8 @@
         <p>4NZS5D323</p>
         <h3>概要</h3>
         <p>
-          プチコン4(Switch)で遊べる4人打ち麻雀ゲーム。
-          <br />やさしい麻雀をコンセプトに制作しました。
+          プチコン4(Switch)で遊べる4人打ち麻雀ゲーム<br />
+          やさしい麻雀をコンセプトに制作しました
         </p>
       </template>
       <template v-slot:link-text>まとめWiki</template>
