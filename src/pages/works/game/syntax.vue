@@ -16,7 +16,7 @@
         <h3>概要</h3>
         <p>パネルを入れ替えてプチコンの命令をつくるパズル</p>
       </template>
-      <template v-slot:link-text>ツイート</template>
+      <template v-slot:link-text>投稿を見る</template>
     </worksDetail>
   </div>
 </template>

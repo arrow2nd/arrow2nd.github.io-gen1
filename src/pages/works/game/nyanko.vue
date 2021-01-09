@@ -17,7 +17,7 @@
         <h3>概要</h3>
         <p>次々に出てくる問題をすばやく『シュッ』と採点する計算ゲーム</p>
       </template>
-      <template v-slot:link-text>ツイート</template>
+      <template v-slot:link-text>投稿を見る</template>
     </worksDetail>
   </div>
 </template>
