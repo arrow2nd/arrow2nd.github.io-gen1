@@ -15,7 +15,7 @@
         <h3>使用技術</h3>
         <p>JavaScript</p>
       </template>
-      <template v-slot:link-text>ダウンロード</template>
+      <template v-slot:link-text>配布ページ</template>
     </worksDetail>
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <worksDetail link="https://github.com/arrow2nd/tokumeiPlayer/releases">
+    <worksDetail link="https://github.com/arrow2nd/tokumeiPlayer">
       <template v-slot:carouselContent>
         <b-carousel-slide img-src="/static/works/other/tokumei_1.webp" />
         <b-carousel-slide img-src="/static/works/other/tokumei_2.webp" />
@@ -15,7 +15,7 @@
         <h3>使用技術</h3>
         <p>electron, HTML, CSS, Node.js, jQuery</p>
       </template>
-      <template v-slot:link-text>ダウンロード</template>
+      <template v-slot:link-text>Github</template>
     </worksDetail>
   </div>
 </template>

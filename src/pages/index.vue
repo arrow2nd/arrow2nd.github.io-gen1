@@ -75,7 +75,7 @@
                         rel="noopener"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ツイートを見る
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -98,7 +98,7 @@
                         rel="noopener"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;投稿を見る
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ツイートを見る
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -111,7 +111,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="プロデュースノート！"
-                    sub-title="アイドルのプロフィールを調べるLINEBot"
+                    sub-title="アイドルのプロフィールを検索できるLINEBot"
                     img-src="/static/works/other/produce_1.webp"
                     img-alt="プロデュースノート"
                     img-top
@@ -134,7 +134,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="突然の死ジェネレーター"
-                    sub-title="あのとげとげを作るLINEBot"
+                    sub-title="文章をとげとげにするLINEBot"
                     img-src="/static/works/other/totsuzen_1.webp"
                     img-alt="突然の死ジェネレーター"
                     img-top
@@ -167,12 +167,12 @@
                         <b-button variant="outline-primary">くわしく</b-button>
                       </router-link>
                       <b-button
-                        href="https://github.com/arrow2nd/tokumeiPlayer/releases"
+                        href="https://github.com/arrow2nd/tokumeiPlayer"
                         target="_blank"
                         rel="noopener"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;Github
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -180,7 +180,7 @@
                 <b-col class="my-3" md="6">
                   <b-card
                     title="twnyan"
-                    sub-title="コンソールでうごくTwitterクライアント"
+                    sub-title="ターミナルで動くTwitterクライアント"
                     img-src="/static/works/other/twnyan_1.webp"
                     img-alt="twnyan"
                     img-top
@@ -218,7 +218,7 @@
                         rel="noopener"
                         variant="outline-primary"
                       >
-                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;ダウンロード
+                        <font-awesome-icon :icon="['fas', 'external-link-alt']" />&nbsp;配布ページ
                       </b-button>
                     </b-card-body>
                   </b-card>
@@ -407,12 +407,12 @@
           </b-card>
           <b-card class="mt-3" title="好きないきもの">
             <b-card-body class="p-0">
-              <h6>いぬ, ねこ, サモエド, さめ</h6>
+              <h6>いぬ, ねこ, サモエド</h6>
             </b-card-body>
           </b-card>
           <b-card class="mt-3" title="ちょっとわかる">
             <b-card-body class="p-0">
-              <h6>C, Go, JavaScript, VisualBasic, SmileBASIC</h6>
+              <h6>C, Go, JavaScript, SmileBASIC</h6>
             </b-card-body>
           </b-card>
           <b-card class="mt-3" title="さわったことある">

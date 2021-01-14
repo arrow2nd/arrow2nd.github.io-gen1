@@ -12,8 +12,8 @@
       <template v-slot:body>
         <h3>概要</h3>
         <p>
-          コンソールで動くTwitterクライアント<br />
-          作業中でも集中を乱すことなく、手軽にツイートできます
+          ターミナルで動くTwitterクライアント<br />
+          作業中でも集中を乱すことなくツイートできます
         </p>
         <h3>使用技術</h3>
         <p>Go, Twitter API, CircleCI</p>
