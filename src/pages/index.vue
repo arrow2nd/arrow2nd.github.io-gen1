@@ -330,10 +330,10 @@
                 </b-col>
                 <b-col class="my-3" md="6">
                   <b-card
-                    title="だいたいねこようなもの。"
+                    title="だいたいねこのようなもの。"
                     sub-title="ちょっと口が悪いねこのスタンプ"
                     img-src="/static/works/sticker/neko_5.webp"
-                    img-alt="だいたいねこようなもの。"
+                    img-alt="だいたいねこのようなもの。"
                     img-top
                   >
                     <b-card-body class="p-0 text-right">
@@ -350,10 +350,10 @@
                 </b-col>
                 <b-col class="my-3" md="6">
                   <b-card
-                    title="もっと！ねこようなもの。"
+                    title="もっと！ねこのようなもの。"
                     sub-title="ちょっと太ったねこのスタンプ"
                     img-src="/static/works/sticker/neko_6.webp"
-                    img-alt="もっと！ねこようなもの。"
+                    img-alt="もっと！ねこのようなもの。"
                     img-top
                   >
                     <b-card-body class="p-0 text-right">
