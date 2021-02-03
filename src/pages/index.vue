@@ -181,7 +181,7 @@
                   <b-card
                     title="twnyan"
                     sub-title="ターミナルで動くTwitterクライアント"
-                    img-src="/static/works/other/twnyan_1.webp"
+                    img-src="/static/works/other/twnyan_2.webp"
                     img-alt="twnyan"
                     img-top
                   >

@@ -4,6 +4,7 @@
       <template v-slot:carouselContent>
         <b-carousel-slide img-src="/static/works/other/twnyan_1.webp" />
         <b-carousel-slide img-src="/static/works/other/twnyan_2.webp" />
+        <b-carousel-slide img-src="/static/works/other/twnyan_3.webp" />
       </template>
       <template v-slot:name>twnyan</template>
       <template v-slot:badge>
@@ -12,8 +13,8 @@
       <template v-slot:body>
         <h3>概要</h3>
         <p>
-          ターミナルで動くTwitterクライアント<br />
-          作業中でも集中を乱すことなくツイートできます
+          ターミナル上で動くTwitterクライアント<br />
+          Windows/Linuxで動作し、いつでも「にゃーん」できるのが特徴です
         </p>
         <h3>使用技術</h3>
         <p>Go, Twitter API, CircleCI</p>
